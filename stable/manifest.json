@@ -1,16 +1,17 @@
 {
   "format": "APRIMAX_UPDATE_MANIFEST_V1",
   "product": "APRIMAX_GESTAO",
-  "version": "6.36.12",
+  "version": "6.36.13",
   "channel": "stable",
-  "published_at": "2026-09-18T14:19:06Z",
+  "published_at": "2026-09-18T16:49:54Z",
   "key_id": "EB696C5449837E432C6D",
   "notes": [
-    "Restauração automática dos dados do vendedor pelo Google Drive",
-    "ApriMax Consignado atualizado para V2.4.8",
-    "Preparação do fluxo oficial de atualização pelo GitHub"
+    "Nova tela Conferir recebimentos na Visão Geral",
+    "Consulta por dia, mês ou período das formas de pagamento",
+    "Conferência de Dinheiro, Pix, Débito e Crédito sem movimentar caixa",
+    "Correção do reinício automático após atualização"
   ],
-  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.36.12/ApriMax_Gestao_V6.36.12_stable.aprimaxupdate",
-  "package_sha256": "1435f85c237722f3b3f6365063dd18a6208dc22c08d141d24f96710861acb93a",
-  "signature": "dexLNJRUMdKjgtbmBLx1TPsvjWeOW9QtmNVQ6b9XamqssCXAovFllzKvVXy4tp7x9gAGXNHpdWikfRBYieb0MZM1xd3UBesi52azEx7ChH1_pkjys3De_P8D2UKcCOKGgOMdcZmjM1z5leGDox9xgcbGMsn0I3vFVz88tvcqriGtZD1iu7xWBqQTYSEK82D-ysmRhQ94xEF20Zz8tTrDFLFZlW6SI2z5xQE9jBPzEYzn6sR2ZskBxgd7nTStiVEMI7uFbUbYRrMyRPcP1qVAxwWBId6B09WtEx3Wd2_z8KmtJ6lcLbI78jjB6yg_9QMFrub_5TYTAYLlvXocBSeLsXwRnR3Sv9Bnj0GhahrK3WuxvhL40Sc-PHQr-m8vrw1RknpRuLNHivRjCMcupU1bv-sVl57hZdWKJiIjVRM_vxsyjPlK1pQf1FZ2_vZPW9jZR4IVSM1t_YBu6D_f3SosiMdm3rVCd_GFx3w6_NeaxEPwWpXSr57Oj8uWNsZ3Ul9K"
+  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.36.13/ApriMax_Gestao_V6.36.13_stable.aprimaxupdate",
+  "package_sha256": "5667c41591838f93f34b1bffbb3ecd61eef80472028026659f04f1d8ad796430",
+  "signature": "UQGsh_8e-sonuhisuTY8Gb7ASWX94UHaASBowj3X1ZAFDasa9CtVwhtvBOYVIStjwwRJvRgOdVJYay1RszTN7rihRBR31pPGj5d_8f_6r5foKToKsNSXH14R0XwwFMqa9mvjXEbzIbQw-v9B2fMpuZAg3lmZRlmTU2zuBYIJc877vRjg_vxHAgK_Xps26FFjkdh8IIyeDdoVkYEh9zRO7dBwk5xS0a5y4A9cQkruBa1kWEP6NMSPih4M5CIJ_2vMkUCGZwT8dRpQKWH5joZ9FjjduuU7gTJmsP0GAOslyIV4ChDt7_xtfhe95TZqsA7LViDmx4ihOlpiWgbkBBuF8c8aY3OhO4XMxsw5ThuZpnjE-5-l_mAwENSB2OTQTZ1jhN1epU_p1eO1TJpdnaYMFBoUrgO2OpqXgGva31eAOioAxBoYvGw10Gdx4XfTe0HHhm55jj3ntliXq9xwlTgfY3LRFFC3Xi-ifZnYvzJnaF0OnJPQmovt66rzWEiOCH5d"
 }
