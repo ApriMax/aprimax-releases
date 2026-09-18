@@ -1,17 +1,17 @@
 {
   "format": "APRIMAX_UPDATE_MANIFEST_V1",
   "product": "APRIMAX_GESTAO",
-  "version": "6.36.13",
+  "version": "6.36.14",
   "channel": "stable",
-  "published_at": "2026-09-18T16:49:54Z",
+  "published_at": "2026-09-18T17:31:12Z",
   "key_id": "EB696C5449837E432C6D",
   "notes": [
-    "Nova tela Conferir recebimentos na Visão Geral",
-    "Consulta por dia, mês ou período das formas de pagamento",
-    "Conferência de Dinheiro, Pix, Débito e Crédito sem movimentar caixa",
-    "Correção do reinício automático após atualização"
+    "Ajuste do layout em Conferência de Recebimentos no modo Entre períodos",
+    "Campos De e Até reorganizados sem sobreposição",
+    "Melhoria responsiva da tela de conferência",
+    "Teste definitivo da correção do reinício automático após atualização"
   ],
-  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.36.13/ApriMax_Gestao_V6.36.13_stable.aprimaxupdate",
-  "package_sha256": "5667c41591838f93f34b1bffbb3ecd61eef80472028026659f04f1d8ad796430",
-  "signature": "UQGsh_8e-sonuhisuTY8Gb7ASWX94UHaASBowj3X1ZAFDasa9CtVwhtvBOYVIStjwwRJvRgOdVJYay1RszTN7rihRBR31pPGj5d_8f_6r5foKToKsNSXH14R0XwwFMqa9mvjXEbzIbQw-v9B2fMpuZAg3lmZRlmTU2zuBYIJc877vRjg_vxHAgK_Xps26FFjkdh8IIyeDdoVkYEh9zRO7dBwk5xS0a5y4A9cQkruBa1kWEP6NMSPih4M5CIJ_2vMkUCGZwT8dRpQKWH5joZ9FjjduuU7gTJmsP0GAOslyIV4ChDt7_xtfhe95TZqsA7LViDmx4ihOlpiWgbkBBuF8c8aY3OhO4XMxsw5ThuZpnjE-5-l_mAwENSB2OTQTZ1jhN1epU_p1eO1TJpdnaYMFBoUrgO2OpqXgGva31eAOioAxBoYvGw10Gdx4XfTe0HHhm55jj3ntliXq9xwlTgfY3LRFFC3Xi-ifZnYvzJnaF0OnJPQmovt66rzWEiOCH5d"
+  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.36.14/ApriMax_Gestao_V6.36.14_stable.aprimaxupdate",
+  "package_sha256": "1c3178695bbfc50bc25f9568e3fd9916aa9cebe5c78c6d0ef3a3caa5b7f2dc99",
+  "signature": "J4jj2jnFZWkqj9-BhrIgzhfqOudp0P2Aq9fDd_8WrQ4-UD1BK0HFRb4R6h_iD4kDxlmiYcgslxY_YjnAowYABkIdEEeOvhpEshYgy95-j7ub47TUUe-mtlnxQ7UZBEsU9euyHYfxUzppripTEXJ_LFlc4FOB0dOE26cZKPjeI0MVkw-cOx1KFLekTBqfCs-TT5KNLq9Ck-RLMHX5L9MNDivAvK-Err5dG8h3opPo7Exk-kNJa8Ko2_nc1vs_RCAzKm1Vo_wSl9De7ifMjnO3JCtWYPZFUrizWtGO9gCPZd-WXTAqp2ghdNCu6o_JSS6gqMAIO-_IwUn7xHAyVcFfVnG4gstVbPdihtyd-hfiecxeCrwmw5yQIfUMAoOGpDu6mJzx30nMV2iJk_4PCgXZfqP-l2jfGqvsbj_QLUR3BrSUwjFxCji4aRqHxuaRvjnAF-02Rf1HFTeyVZprDsPxzhBOI-Vr-1CPgKN5H-kXgAZ_drei8RpcQs8En0oONzAN"
 }
