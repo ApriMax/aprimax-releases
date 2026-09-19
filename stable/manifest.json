@@ -1,19 +1,17 @@
 {
   "format": "APRIMAX_UPDATE_MANIFEST_V1",
   "product": "APRIMAX_GESTAO",
-  "version": "6.36.15",
+  "version": "6.36.16",
   "channel": "stable",
-  "published_at": "2026-09-18T21:51:18Z",
+  "published_at": "2026-09-19T17:51:54Z",
   "key_id": "EB696C5449837E432C6D",
   "notes": [
-    "Integração com o novo fluxo seguro do ApriMax Consignado",
-    "Confirmação individual de vendas sincronizadas",
-    "Pedidos rejeitados retornam ao aplicativo para correção",
-    "Proteção contra alterações durante a sincronização",
-    "Melhor tratamento de vendas duplicadas e cargas consolidadas",
-    "Correção do aviso de atualização após instalar a versão mais recente"
+    "Versão do APK Consignado exibida na tela de instalação",
+    "Consulta automática da última versão do App no GitHub",
+    "Atualização independente do APK sem nova versão do Gestão",
+    "Validação do manifesto por assinatura digital e do APK por SHA-256"
   ],
-  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.36.15/ApriMax_Gestao_V6.36.15_stable.aprimaxupdate",
-  "package_sha256": "ed1efc3838921e277c75baa266d2d60a652655d2971b3f361609c621f1a0d406",
-  "signature": "mPTxQdW9kpqrtVeVDE_wV0finyUGn53q8uZ2ODfzs56gu3TYP9U7-ydKHsq7ApgslxW3hqPZfnEFywoJ7mybJfSVIfBgccWAeQXj83MLp60p5usGtCPCdJeDAUbgyEQxefGiTDb5-sbr08EJou16QveiXy-zzCB2EYe3JjzSbcCrSdeP4ACOn4PjuBalFDQK6_rFxs4LKCWX--LtM5rsWaBntDr5cawe_RPMgPV0CIPPo8BnvJpoayTv5LAZPwrDROOI6ffrs5TP5zlHnxg5bnQ-zYEwgmOAHAzmgeGqOoxv8f2iBWSQLkeDmxQjvDf0Ky4xBPEZruNySgGDfhGsdLARki1-TRr4xFl-JI9hLdqSZA5plH9rgkTPwmKd891yYULsI08ONUqoJ36EhCgNmD4yt-fWST6dTnF1SXklFbHgjMshrRfQ9KzNTyTj-2vBGXqarsa7FaUi31c7KApA5ScrmbMcdBjo9hUKi7_eD2qAjvOKw5dBxbq_w0amHjoP"
+  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.36.16/ApriMax_Gestao_V6.36.16_stable.aprimaxupdate",
+  "package_sha256": "c5973257e2821e18d06a7f66e4f4ac030aa3b3ea09c4e1d1d6c38f545b7f7c80",
+  "signature": "G_8vFpOepBxtivMSCv6aLUoLnIjzod4BiEcbCik18fiBHckRTDM8ux1tiAZCsqKu2mCX3vD-Y-psfLqr3oG9nkQ_KcGaK77upk0UCSNjaasYnlfzKOKXZmxFwzCL-EclutocB0a7tWhZh9c1x_dy_TfL_wTf76zW79gGneNj6mFup4DicYZnlVpK6v1amI0e-eCfwNN1LByZJoRshgwwx6GhM4yARBIYLHPTv41oZ-3yUoAqGODP9pM-D3NBmYtwtlTqXfINJ3jnvnbMvL6ChFfgjddaVDVkkdn2ra7RUl__C5kiNUpx331rvoGhoaxmjeUFTXVW_PlU3AVFigz16QNw8iMxRO1B4PHMnp1_Uk_H5j8kEKTZzPjQdDzTjZLC6lizAdu2mOmu_uOl1iXErlyZjRZpHo3OuqLZ9kgRz9TlX8VmM7j07ZYU18m9FJ7kkWdIfpjvvM34yjO4SzSfABEPcKzrYl60htrzS2z6VwjCxY9YVmYZUYyKCvO1bPgh"
 }
