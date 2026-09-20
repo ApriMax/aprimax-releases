@@ -1,18 +1,16 @@
 {
   "format": "APRIMAX_UPDATE_MANIFEST_V1",
   "product": "APRIMAX_GESTAO",
-  "version": "6.36.19",
+  "version": "6.36.20",
   "channel": "stable",
-  "published_at": "2026-09-20T15:35:03Z",
+  "published_at": "2026-09-20T15:42:25Z",
   "key_id": "EB696C5449837E432C6D",
   "notes": [
-    "Aviso automático de novas versões na tela inicial",
-    "Notificação de atualização na Central de Avisos",
-    "Opção de atualizar agora ou lembrar depois",
-    "Verificação silenciosa de atualizações",
-    "Automação segura da credencial Google OAuth durante o build"
+    "Teste do novo aviso automático de atualização",
+    "Ajuste de identificação e metadados da versão",
+    "Nenhuma alteração nas regras de negócio"
   ],
-  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.36.19/ApriMax_Gestao_V6.36.19_stable.aprimaxupdate",
-  "package_sha256": "caf90af2d6b508acb0b70981bfa8be3e35e516fa0fb26b92de9ffe81119c6f48",
-  "signature": "T7qF7Ez0FHoYexHXzxOLq_vc5YQHU9S8FyES7nYuaiLyCgSdnj_BzvtQwXYJKvmu8PlgwngXxAzidYJP4eh5MgHIbvg_mMiN4QMpW-2RWlzFymV7pZwuxvuLH_uBL6kN5mogE8MmkG5l1MuGyfmrs09ItIrIJhAz4VFDU4pHMmU4aNsIPCPz7W4Vb2utTf-zMHw4zwN8AVw2hBRncKrXnH-F6goKCUt970js6gCVc5efSDpvtoi_2WQNkCk9zhHpcS3v3ORzUqB2VDr7DoXRYKt9RWXVFU79Ma5ukb81l9rOgQIRHqhvRMWIOF6-VSiZgYzSf02EVRSJdHgT9tCHsY4Kf7CvRubjVON0HOxveuz8ioNzq5UsaxBixpGIRkj5TKBwwPKH4SPViIczX9OjZnAZihwkxXQKqb7WaMirPkylrG0J9ycn49pNt015S6mqwM1JmWM_TSnQAqaSzu7tabVbsbuT023Ki5C0NeilJtCdo5tcxE_n9FgStR7YNmlt"
+  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.36.20/ApriMax_Gestao_V6.36.20_stable.aprimaxupdate",
+  "package_sha256": "49370e9edb370a6ef180e915753d3723247b9f105c68cc34b94bf54fafaa380d",
+  "signature": "I89mzhYQGLl4ESs6BGQJrLhy6PhrzRI0GRlMPXokJ1sjPIEnHqRDjx-nw4S-qwwiNJt8Gl980vwG5Rf3SQ7B91IKp-Z1WqxG6kT1guI33vs7FSBhgTOKboKAqcMBiBtaCtsQS3DDYLCH-cO7N_Kcod3IhOGIeJJ-PdixWPtfK9MnaWaxlxeLVTfQl_V8VGMnQEFy5XYOU6ZEkwYoss1b2zxTGtbxkJASdhltdHJzja0T7Ldx5G6d-xJxD5zEtgwMb5e0wXIisTmQ-CnSzxyIsAgHrr3TSvv6nCdvUf8hMu4CQL_Az_ZSaF-q4QvOYAT38paUarup5w-CohzvQNaBMmA9VmHkFFKqW-sRDYPYU29IrEzChaWztlR_egYnbaosftM0d9t9dFSt59rel4Ydm6y8qcEQxQoN4aLr8JazfP7nUvlWXEzxMMg77qqkb8gWJ_rLFo8jp3uhpZMawkAyIFKRrxfyn8A_xxsgSoJq3iEIZwPRSWYDF_G0sFzmJEEt"
 }
