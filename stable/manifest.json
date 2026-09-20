@@ -1,17 +1,19 @@
 {
   "format": "APRIMAX_UPDATE_MANIFEST_V1",
   "product": "APRIMAX_GESTAO",
-  "version": "6.36.17",
+  "version": "6.36.18",
   "channel": "stable",
-  "published_at": "2026-09-19T21:30:13Z",
+  "published_at": "2026-09-20T14:14:36Z",
   "key_id": "EB696C5449837E432C6D",
   "notes": [
-    "o bloco “Venda fora da rede / ApriMax Consignado” foi reduzido e colocado na mesma linha do cabeçalho MOBILE E CONSIGNADO / Consignado;",
-    "O bloco Autorizações do Consignado foi movido para logo abaixo e ficou bem mais compacto, com o botão ao lado de Solicitações de edição;",
-    "Depois vêm o seletor de mês, os 4 indicadores, os botões de ação e por fim a tabela de cargas.",
-    "Também removi o título redundante “Mercadorias com vendedores externos” e o card grande explicativo que ficava no final."
+    "Auditoria geral de estabilidade e segurança",
+    "Melhorias no sistema de atualização",
+    "Proteção adicional de arquivos e anexos",
+    "Melhorias em backup e restauração",
+    "Otimizações de desempenho e interface",
+    "Compatibilidade aprimorada com instalações anteriores"
   ],
-  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.36.17/ApriMax_Gestao_V6.36.17_stable.aprimaxupdate",
-  "package_sha256": "0762aa8a40a9a50f080b7486e679d2d97a41272ff7b0966bcda1d1689f34421d",
-  "signature": "g9cSI07pMOjD_fF5ibBt2K_rmVi-vexh7z_vf17-RfB8gdkdPY0N-7zG4WuKlOaEYparWX7UvMh3aAtAWZdUXEHrkitTI3VRvek91Iuqfo1Xwc6d2gsZiNBcQkG_2TnRDa82CBgJmakqvAnjZakepw8ZwnQdgc9XsVC82HEXsiyYYG0volZ8ko4Cn6YJgPJbSqJKsV5uBpgmyBCQLjHsin7Q2lhPPyLBnwJbIXau5Z02oSGsF0e32HIA9I-Z-2M7tCCFDGdsxyE0oZT8fiMfNpST5Bf1ZNQ4BlIF_WH_7onDLO29b8Gd9o0qg9g7WOmlqE83e6kt8tw33KDB1HBbMqiHLDYMZcLBQpIl0NEqqTJb6q87RnzaTlv9cTMGgKgNsMQP0J2okmV2EF3mhqlO7KskuUnUL-1ZuxrSrLb7q_yKy1xCBntNFo3_SGryWvdtHk2xAbq1i11laHRtvmzncxwjZ_sjUsLoGr-pTpOwkgBIthBD7Gp-oJgWD6hvVymZ"
+  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.36.18/ApriMax_Gestao_V6.36.18_stable.aprimaxupdate",
+  "package_sha256": "f742b8ed396e69c8de76a9e603b5654192dfe10d2efde8896e38d84f77d41ea0",
+  "signature": "h9VBC37yf07OgVLsgkGFY751Z3TlHISCAxB-4GM8ZYeqgcqmexuiNUeToCtzg5EPeFTo5TEMup62jpqVAazkpfMa68rQtfV1uUWQF9DsUZ7gvOCVAW8yRzhRAnXHVamP6KvkHyCIH0_5ldl2eAKJDJqoalG7mTu7WZODj9JqaalBbCqmVCBFuM6jidtPXAXkh_AEJkgZkzACcWVU3FCwcU-u5HjKVPF8xH5UttDj46W3X2DkAE9ltT5FbzS2Soda-JSAHAfSn9PxTtsCDgtqR_k7A1KtDGljT7Bx2Q3ylqF13AfwOims_mW-ca1HrV_w0n5hUlmPKfKmmGCLdT0llgfeJ39kzcpOefG6ihGfAI6tQKAr62W7JERVBkEAIlz4C3RMQwoOCSxIoz9rH-nHtbgGLJn6slgvNIA6zUd3GIhmtsTeSFvRIQGDa0LszlnCNFSCalBd3b8rHkyeewjnrWpXK_oWAI9yFJAyIKRPQc5xowakVQh_FVnV5RiFP0hG"
 }
