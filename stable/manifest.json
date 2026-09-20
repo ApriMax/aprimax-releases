@@ -3,14 +3,12 @@
   "product": "APRIMAX_GESTAO",
   "version": "6.36.20",
   "channel": "stable",
-  "published_at": "2026-09-20T15:42:25Z",
+  "published_at": "2026-09-20T16:19:07Z",
   "key_id": "EB696C5449837E432C6D",
   "notes": [
-    "Teste do novo aviso automático de atualização",
-    "Ajuste de identificação e metadados da versão",
-    "Nenhuma alteração nas regras de negócio"
+    "Card Atualizado"
   ],
   "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.36.20/ApriMax_Gestao_V6.36.20_stable.aprimaxupdate",
-  "package_sha256": "49370e9edb370a6ef180e915753d3723247b9f105c68cc34b94bf54fafaa380d",
-  "signature": "I89mzhYQGLl4ESs6BGQJrLhy6PhrzRI0GRlMPXokJ1sjPIEnHqRDjx-nw4S-qwwiNJt8Gl980vwG5Rf3SQ7B91IKp-Z1WqxG6kT1guI33vs7FSBhgTOKboKAqcMBiBtaCtsQS3DDYLCH-cO7N_Kcod3IhOGIeJJ-PdixWPtfK9MnaWaxlxeLVTfQl_V8VGMnQEFy5XYOU6ZEkwYoss1b2zxTGtbxkJASdhltdHJzja0T7Ldx5G6d-xJxD5zEtgwMb5e0wXIisTmQ-CnSzxyIsAgHrr3TSvv6nCdvUf8hMu4CQL_Az_ZSaF-q4QvOYAT38paUarup5w-CohzvQNaBMmA9VmHkFFKqW-sRDYPYU29IrEzChaWztlR_egYnbaosftM0d9t9dFSt59rel4Ydm6y8qcEQxQoN4aLr8JazfP7nUvlWXEzxMMg77qqkb8gWJ_rLFo8jp3uhpZMawkAyIFKRrxfyn8A_xxsgSoJq3iEIZwPRSWYDF_G0sFzmJEEt"
+  "package_sha256": "5fa9718e00903892948e82084af1d615491c28b97a8f01c6961e70520662d8f6",
+  "signature": "ZOi-6x-f9aLfvTYWEzV4EuWIk2HbY9PJQbNW0SaxWPMPgZIre4-6LXYWz4n-FegN8oqGjfAcP0XqoH8k-MCj7GwbGZ9gw1IV3cyB1Ik1FCwxXvb_0S8Ezx1bWwfUQWmxCYF6c1w4xHQkQJ-Jn3VpmKwGxSrNKXvJyQHL2ftJv-rqJ-qRZfDr_KOGcMuXMV-IID435e_ZU7LBFXgWhknA_bCPlcFev7l9pw0LSrkcVA68iMWKKdpoXobysrp8KwjFSUVjr9tiHtXQ6o-84xNXDZ4KT7144Imsk46SM-ZTHRCXbNCzJTwmvhvnrZFIOBAxxVNZxtojjp-vXZyQcEopMd36jQtF6nD8VjMjGGIN-crEDSee1gcghQeua0-KCMXRIGhcQUE--bXeMqA-Woa5wAZXgID7F5Z0wlTiONkKTkke6aKqNXe-ddgyy-c-_lS2xuTHmMFjf7-hPUk4ufw3-vAfvqD9HxbABaKN2TpA6XaemV6EdVrMES34tvzQ39gR"
 }
