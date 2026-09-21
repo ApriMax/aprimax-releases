@@ -1,14 +1,14 @@
 {
   "format": "APRIMAX_UPDATE_MANIFEST_V1",
   "product": "APRIMAX_GESTAO",
-  "version": "6.36.22",
+  "version": "6.36.23",
   "channel": "stable",
-  "published_at": "2026-09-21T14:42:47Z",
+  "published_at": "2026-09-21T15:42:53Z",
   "key_id": "EB696C5449837E432C6D",
   "notes": [
-    "Arrumando Bug da Licença do App Consignado"
+    "Licença remota"
   ],
-  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.36.22/ApriMax_Gestao_V6.36.22_stable.aprimaxupdate",
-  "package_sha256": "fcfffbbe298f366e09592ffbf4004c22515b57af226f50775f263408746fbe7f",
-  "signature": "TJD-TGlFt5SMAIu4IpvhDf50yCQYn8qx2snj4IeaidK-O6ms_YYHmtcpXTuv1eH3D7MXymKN82-VbHAHrr4kHR3qULdwdOsVxuINEP3bg2ijEkPtHBxPxilzuGwtgym35yr8KuULFH047GzUA_l69c7Gq9AQpaGQPzKe7CpBOPrgY8fkqYlFjtTuBdh7XM4j8MAdXaqoCtcHpvvZYy2MpQDvV-VEahqmoMqOYVPVfZ5J6JmYp0kCz-kbLRNvqhHEJn2TObkQYQRjdelQLte_TuHljGoEiULasF-q7q5aUde3hYGw3UHTetgtoTjQaXummJGXJe8QbZl0FlwI6HU4GQEAOOjDUr-FjizMdKmIES9IkpVIKF9wC0brQGUXCF1GQmAM2waOaLRJVHwU4peRIRyA0W1yUS45uGe6War76EDYWcMm4UIoAomzoAPpAMlHf5yQ7_rkWKh7YmbEJal_4ps-wSE8TxNNFAN0chTOXp5qAmptmhtdSK1DLb7bdppE"
+  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.36.23/ApriMax_Gestao_V6.36.23_stable.aprimaxupdate",
+  "package_sha256": "346b080bababc020e0ad0a68b04b64c7ec7ac5e1b7c578fe0c20bd1afb6e695b",
+  "signature": "Wj_rSJ5gtCJp8_g6pmUYDmNcCz631VTFgvdZ39sb0XmZm_XXSpHwjq3d768eDc6MY6ZJsyf4nahjHt6qUCrxc1bhUlWPeOijdwDDv4cpreu8pGhAtA6gbNoOqp3wUhaR3Hot9EYsvHvw-F78YYs_vNW2DYNl-zXkpfwr3WhrlMrk_2FOBPWYIicNwwnlxKGWrLZywUNGcjQmJ1A1Rpwb-_M7-8-beHvU2-eAB4EWaeMyQuvReN9_MVMNEC15ZvweCV71FCpbXjYW5tHhoDOuB5Hi27H3CxZBGgNdWg9zeRh3c3KayimRzhDMlvHR2GqoLTTa7lI69TJ2vDzKBHKunmDZad-Msi_8VALEk2aMdiMVkKq2BZboRtyB6v2HGRhR7zlkwXdPl8LDPlxvMsreAdVurPbMbI5EmJeyj4H7FVP2t_t3gM1mpMSUifmQ3NazzS9NAz0LL6aGsnVPJUb_PqvnZ6pEq7ykI0dU_1fW0YnILf1vc04Kx36JjTkvugY4"
 }
