@@ -1,14 +1,14 @@
 {
   "format": "APRIMAX_UPDATE_MANIFEST_V1",
   "product": "APRIMAX_GESTAO",
-  "version": "6.36.20",
+  "version": "6.36.21",
   "channel": "stable",
-  "published_at": "2026-09-20T16:19:07Z",
+  "published_at": "2026-09-21T13:26:29Z",
   "key_id": "EB696C5449837E432C6D",
   "notes": [
-    "Card Atualizado"
+    "Reparo na inicialização da atualização"
   ],
-  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.36.20/ApriMax_Gestao_V6.36.20_stable.aprimaxupdate",
-  "package_sha256": "5fa9718e00903892948e82084af1d615491c28b97a8f01c6961e70520662d8f6",
-  "signature": "ZOi-6x-f9aLfvTYWEzV4EuWIk2HbY9PJQbNW0SaxWPMPgZIre4-6LXYWz4n-FegN8oqGjfAcP0XqoH8k-MCj7GwbGZ9gw1IV3cyB1Ik1FCwxXvb_0S8Ezx1bWwfUQWmxCYF6c1w4xHQkQJ-Jn3VpmKwGxSrNKXvJyQHL2ftJv-rqJ-qRZfDr_KOGcMuXMV-IID435e_ZU7LBFXgWhknA_bCPlcFev7l9pw0LSrkcVA68iMWKKdpoXobysrp8KwjFSUVjr9tiHtXQ6o-84xNXDZ4KT7144Imsk46SM-ZTHRCXbNCzJTwmvhvnrZFIOBAxxVNZxtojjp-vXZyQcEopMd36jQtF6nD8VjMjGGIN-crEDSee1gcghQeua0-KCMXRIGhcQUE--bXeMqA-Woa5wAZXgID7F5Z0wlTiONkKTkke6aKqNXe-ddgyy-c-_lS2xuTHmMFjf7-hPUk4ufw3-vAfvqD9HxbABaKN2TpA6XaemV6EdVrMES34tvzQ39gR"
+  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.36.21/ApriMax_Gestao_V6.36.21_stable.aprimaxupdate",
+  "package_sha256": "2816a901285fbeeb4c242016e1e83901d23cfa64ce6f07164df0659a132a2cb4",
+  "signature": "XvP_KYEJVt_R3ZpbYesLCJqV9Xglv1K0j60_s2qextmAjgZNqp5OUvMMBaUCLTnYtY-4KdjpdC6ZE-eYzQ71hXw-b2b4xNktkCwHuLAHVQO3PqWawwKJk2yHwm5yYRnINlpzedfOOFiGSGhcLTB8-9tlfCSqJuQ0gnPVWPzqYJyiIP0kfDrJmXub2S6EvovS507nJD_iZQvjFK90wq9AZATt-Cn9LihQokTocQQPLnHvD3w0BW31G58gjUOu1OikVPe6VpenrODzX-BzOjl4xw4xaKlrJdgKMQxIKaT6CqogEz6mZDOhJqyPYDDs1uGUn38_l3wQVtaN4bPImFljzEYV8BmLk5fFbGn_rPDCoQYuJ1T93OoqxaTvWst7ZpZrTVOiPoWFHFvYuarz5cL4n8B1Miy2-AmVpSl3RimxSZONtK4O7BO9BD7e7H-L2p7Ld1KYSEHBAzlUXJeCBqv3vqzbyILV-08oBWjeaGtYe0zNKAJQG8wb4qhyhdzotXos"
 }
