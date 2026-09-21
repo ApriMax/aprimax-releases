@@ -1,14 +1,14 @@
 {
   "format": "APRIMAX_UPDATE_MANIFEST_V1",
   "product": "APRIMAX_GESTAO",
-  "version": "6.36.21",
+  "version": "6.36.22",
   "channel": "stable",
-  "published_at": "2026-09-21T13:26:29Z",
+  "published_at": "2026-09-21T14:42:47Z",
   "key_id": "EB696C5449837E432C6D",
   "notes": [
-    "Reparo na inicialização da atualização"
+    "Arrumando Bug da Licença do App Consignado"
   ],
-  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.36.21/ApriMax_Gestao_V6.36.21_stable.aprimaxupdate",
-  "package_sha256": "2816a901285fbeeb4c242016e1e83901d23cfa64ce6f07164df0659a132a2cb4",
-  "signature": "XvP_KYEJVt_R3ZpbYesLCJqV9Xglv1K0j60_s2qextmAjgZNqp5OUvMMBaUCLTnYtY-4KdjpdC6ZE-eYzQ71hXw-b2b4xNktkCwHuLAHVQO3PqWawwKJk2yHwm5yYRnINlpzedfOOFiGSGhcLTB8-9tlfCSqJuQ0gnPVWPzqYJyiIP0kfDrJmXub2S6EvovS507nJD_iZQvjFK90wq9AZATt-Cn9LihQokTocQQPLnHvD3w0BW31G58gjUOu1OikVPe6VpenrODzX-BzOjl4xw4xaKlrJdgKMQxIKaT6CqogEz6mZDOhJqyPYDDs1uGUn38_l3wQVtaN4bPImFljzEYV8BmLk5fFbGn_rPDCoQYuJ1T93OoqxaTvWst7ZpZrTVOiPoWFHFvYuarz5cL4n8B1Miy2-AmVpSl3RimxSZONtK4O7BO9BD7e7H-L2p7Ld1KYSEHBAzlUXJeCBqv3vqzbyILV-08oBWjeaGtYe0zNKAJQG8wb4qhyhdzotXos"
+  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.36.22/ApriMax_Gestao_V6.36.22_stable.aprimaxupdate",
+  "package_sha256": "fcfffbbe298f366e09592ffbf4004c22515b57af226f50775f263408746fbe7f",
+  "signature": "TJD-TGlFt5SMAIu4IpvhDf50yCQYn8qx2snj4IeaidK-O6ms_YYHmtcpXTuv1eH3D7MXymKN82-VbHAHrr4kHR3qULdwdOsVxuINEP3bg2ijEkPtHBxPxilzuGwtgym35yr8KuULFH047GzUA_l69c7Gq9AQpaGQPzKe7CpBOPrgY8fkqYlFjtTuBdh7XM4j8MAdXaqoCtcHpvvZYy2MpQDvV-VEahqmoMqOYVPVfZ5J6JmYp0kCz-kbLRNvqhHEJn2TObkQYQRjdelQLte_TuHljGoEiULasF-q7q5aUde3hYGw3UHTetgtoTjQaXummJGXJe8QbZl0FlwI6HU4GQEAOOjDUr-FjizMdKmIES9IkpVIKF9wC0brQGUXCF1GQmAM2waOaLRJVHwU4peRIRyA0W1yUS45uGe6War76EDYWcMm4UIoAomzoAPpAMlHf5yQ7_rkWKh7YmbEJal_4ps-wSE8TxNNFAN0chTOXp5qAmptmhtdSK1DLb7bdppE"
 }
