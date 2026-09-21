@@ -1,14 +1,14 @@
 {
   "format": "APRIMAX_UPDATE_MANIFEST_V1",
   "product": "APRIMAX_GESTAO",
-  "version": "6.36.23",
+  "version": "6.36.24",
   "channel": "stable",
-  "published_at": "2026-09-21T15:42:53Z",
+  "published_at": "2026-09-21T17:57:29Z",
   "key_id": "EB696C5449837E432C6D",
   "notes": [
-    "Licença remota"
+    "Melhora na inicialização das atualizações"
   ],
-  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.36.23/ApriMax_Gestao_V6.36.23_stable.aprimaxupdate",
-  "package_sha256": "346b080bababc020e0ad0a68b04b64c7ec7ac5e1b7c578fe0c20bd1afb6e695b",
-  "signature": "Wj_rSJ5gtCJp8_g6pmUYDmNcCz631VTFgvdZ39sb0XmZm_XXSpHwjq3d768eDc6MY6ZJsyf4nahjHt6qUCrxc1bhUlWPeOijdwDDv4cpreu8pGhAtA6gbNoOqp3wUhaR3Hot9EYsvHvw-F78YYs_vNW2DYNl-zXkpfwr3WhrlMrk_2FOBPWYIicNwwnlxKGWrLZywUNGcjQmJ1A1Rpwb-_M7-8-beHvU2-eAB4EWaeMyQuvReN9_MVMNEC15ZvweCV71FCpbXjYW5tHhoDOuB5Hi27H3CxZBGgNdWg9zeRh3c3KayimRzhDMlvHR2GqoLTTa7lI69TJ2vDzKBHKunmDZad-Msi_8VALEk2aMdiMVkKq2BZboRtyB6v2HGRhR7zlkwXdPl8LDPlxvMsreAdVurPbMbI5EmJeyj4H7FVP2t_t3gM1mpMSUifmQ3NazzS9NAz0LL6aGsnVPJUb_PqvnZ6pEq7ykI0dU_1fW0YnILf1vc04Kx36JjTkvugY4"
+  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.36.24/ApriMax_Gestao_V6.36.24_stable.aprimaxupdate",
+  "package_sha256": "2dc58006265a72736e2ad7cd9090e814dea3c3d73ddf7c29a7c99d8d85175d5c",
+  "signature": "KJWpyCdIUtJQmshUU12TjL6PFpETO5sBvt-1UteK4cDyL1kM4-M9ky0ocdhLwlA4d-sv5czXhK92GQhVyWUY0Z9eZNQ7qi-h8uX4EK9ta-axJkDtjK0hXDTo55hlDAu6XF0DV3HOWe7lZskAiOZERYmkTIqB54OkjVIfyVnw6qDnOqMvTctby-6tMIzwuMUjOUhhqmQiHHKZwp_2PN-kIeRfgMgzuF57wqxTXPNGYWv_X1Dq2FVHR9BoPQIAuQq7_tGdhg5bJAgSodt_YXpd5R5smxg9jODBwxmobif3G7NNbhHM0e4wwAkPetZ1U5IQf-Kbjz8irr66mrcDPWe665viqkTmumgHeet5mPocOjsAfuUBzenO_vTWZHNOXYLXTHjTA84s4Zm0kYV-Jl4R3r4dSqi0aua75eiNbSKE0pxjkpYSExma6ia_9VqHniKOEolmNYziaO_zejGspVNCHFIpk8NDSLPiMyTlTDAAA-YPlFTqLbSgf4v7Yde0ncFl"
 }
