@@ -1,14 +1,14 @@
 {
   "format": "APRIMAX_UPDATE_MANIFEST_V1",
   "product": "APRIMAX_GESTAO",
-  "version": "6.38.0",
+  "version": "6.38.1",
   "channel": "stable",
-  "published_at": "2026-09-22T23:00:47Z",
+  "published_at": "2026-09-22T23:45:41Z",
   "key_id": "EB696C5449837E432C6D",
   "notes": [
-    "Ajuste Premium"
+    "Ajuste Fino Layout"
   ],
-  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.38.0/ApriMax_Gestao_V6.38.0_stable.aprimaxupdate",
-  "package_sha256": "bfef873ecd3b66516222ef1e66f356d1d2dd20c22c5015fe874afdc0e195d0a5",
-  "signature": "SlvLimfNEToIoIJZkAoUSxKhKr0sdS45CHt8QyLYr3cMo_DaIxa0oCnR5oYpsbVsOWx-gpjdIlDJJrmcOA2ALXLNrfWpVu2sUmX3QwdzK8rjYHHDYWULlYqH7GfjJoqyj5Hx9vA7bRaszLrdkF2GkvfUy0W5gYS_6vbqda9xilpk1JVtA4qm5uRxL5mjvVqhMSryBP9M6ThXkyn499f0-TfzXd1JErbNO3WzACD2iXAHvliLCeg4ntC4qYF7CShtCRAa28svrOuC1ZR5ONZWwKx-q7NveBMm8ULH0mfdpoPRuQXC1KpUyYyaHQq6SYOg-QrqwLe1Zdw_MlS7YlhphVwiEMxXbXFVDEF98ehGOhvKzWcJdsmmmuKaVaCnZaBOmZ76gGechY0Jy3nmXEebQLeWfPfgm0QDTD7_pRljOwSa-rF5NQPFdF7HYhDna3FVEnNnN2EkXSZ_EfZ7MPDL9i8N7mUZprsDoeANwnqfgQobBz31ZqCDwE4QXKOSPRzS"
+  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.38.1/ApriMax_Gestao_V6.38.1_stable.aprimaxupdate",
+  "package_sha256": "cd548772455f960f7a1df6a3838426eb6aec85cb161864d0ab0a891ffab70448",
+  "signature": "ZchSu8AdBcOLdDW-VuMiRAvjjj6rOqDB_1ISNUnpbziCa2YQ41N0e9yTbhIbDOeEGjdp-v6e_3QU4gxuwMVvSSfp1MED7_cr-dLv8UTmRLKcquE3yW2jDIFyXqQOHWamtCRibaNelCl2CXtDDC9kDSSuN7iid5MzWPLhr0U-cW0PUIhdZmrfoOgoqrTn6wCdPobg-UeR9EjgduyI4_wsb9uHwE7sb0_EpHMEO4qbvbpHfE_RpIvGt0fmOUeQmbuaidPICXNXkbLw0RTqyIChrmcWWUSawXcqY3lH612VT1dJMOf1z8JhSsAfIP9EPT2Vi6zftycMTSFCvikDR9C-QnTvmHGIF4NPQ3DltENwSrtNFNy_UGonYbnmEtcNiYsVnI_DbEhpdXoxv2kgCh5ijj3uajLhZ5sfcXhbhQpjE5IzQtqeGcED6lZ0kpUl8g_rkt505zcPVYxQNmJKE_QV8Bs02xSPqIgLnGyTK6wPx7oavX6CQNObZ29eCc3wqJwl"
 }
