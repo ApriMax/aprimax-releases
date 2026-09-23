@@ -1,19 +1,21 @@
 {
   "format": "APRIMAX_UPDATE_MANIFEST_V1",
   "product": "APRIMAX_GESTAO",
-  "version": "6.39.1",
+  "version": "6.39.2",
   "channel": "stable",
-  "published_at": "2026-09-23T13:23:17Z",
+  "published_at": "2026-09-23T14:24:38Z",
   "key_id": "EB696C5449837E432C6D",
   "notes": [
-    "V6.39.1 — Melhorias nos temas Claro e Escuro.",
-    "Correções em Relatórios e Pagar Comissão.",
-    "Ajuste do status Pagamento Parcial.",
-    "Cadastro de cliente reorganizado.",
-    "Remoção do gráfico Torres.",
-    "Botões do Estoque alinhados e correção completa do Pedido de Compra no Tema Escuro."
+    "ApriMax Gestão V6.39.2 — Refino de contraste e menu personalizável",
+    "- Aumentada a legibilidade dos dados nas tabelas de Pedidos, Clientes e Estoque.",
+    "- Menu lateral agora pode ser reorganizado por arrastar e soltar; a ordem fica salva por usuário neste computador.",
+    "- Tema escuro: reforço de contraste em Acertar por vendedor, Nova carga e seletores de visualização do Financeiro.",
+    "- Tema claro: revisão de contraste em Visão Geral, Consignado, instalação do App, Acertar por vendedor, cadastro de item/IBS-CBS, Financeiro, Contas a Pagar, Relatórios e Configurações.",
+    "- Status de estoque/pedidos/consignado ganharam cores mais fortes no tema claro.",
+    "- Identificação Online/Usuário no topo ficou mais visível no tema claro.",
+    "- Mantida a remoção da visualização Torres; preferências antigas continuam migrando para Colunas."
   ],
-  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.39.1/ApriMax_Gestao_V6.39.1_stable.aprimaxupdate",
-  "package_sha256": "9b57a505951791cd46e3acc88cbe11b0f231df577c541355bcbcd5961299518e",
-  "signature": "E7HYe6Gj1vzchJVgfmLGkjFzZiLPyc5fy6d5_pWN93PYyHvs7rMN91pwhZbQ3ieh0UwWeLgag06znH5rOX7tOftmF-oyDsPp_WuHhYi8BIjHXBc34I-c8VDdIqGp-Aw6ntPiajMjNkUcycOMDe7hTBR8pXEe3sqeAtb5-1_Nu3zaW-8nzQm8aFQDmVfUwsc6S2m4R3j77ClHm07w3PZabUwUPi_X6NMk27SzxiOF5uDb4_j0MIrzNxwRoJEHpGjoxBRyORXFHi1EMIYxkDe0hPRRZXbepbun3yKK7w30Sxgh5LqGbl5hdQx8ItQJN3a-MIgyShnR5Ni5wgLcp4XVxsa3CMFQhJN5sHKQU8MewN67zk-eTD6_q1rbloCnsg0NR1cmh6A8OND9uOx2U95LyLAdICGLRuY23W8Psq7u3RyNNCNzePk33wp3DhK2xs8nHAuR8n6RCwlArVguX4kpG5nvsW4X3TVlVe3vZRGT9l-0AWyq6R98CqFiWzv8RD-G"
+  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.39.2/ApriMax_Gestao_V6.39.2_stable.aprimaxupdate",
+  "package_sha256": "89a65a1f27305aea3c5d0fcebed73f3967197f9859ea732764d61b76eb8c3a25",
+  "signature": "WvjQHF1sDQB2OBFx3oTPntkv_WdtwhBkS-wkBHtTfd5Lb2Jwx3g3SGWqyQDHw_SDAed4c4r2F9AComE5zjOJUf06RBG1rDvRpMjU-yhW_a0KVeuI-JSprc0Jd3wsmOyAgEDrTNti1F2-WMinYwSCt9rkzWjvkfNOudgbBP89WoGSPl4pEvHL0zOIZM3EWtFwzUPW2A7hltx6Dkf3A2_W8PWT8BTvYkOrbDTKtC7kemDoiunQ-YxkYM-lSLBx26uNdhQVk2wvZsV1v1UPnN_hQVDLsY8Y6ZGJEoPqgL2veN0eur6eidygzngYQnckXy7ajNJeyeKdxvWfveQ_7FAXCcCVEh8snQUP1G5P1ipE3lbZwwTj3mQ0VBrl4b6qBhx_E9HHAqxWtpFXg8Cf39KsboL5blQk6Cb_EM6JaKMPvYXpwcSbuhFpJrt6iuQY5EJX9JXL1086A707h4xOXg3VJTvBmMhiG_bClZY7KNhbsVynYoEwOK-F46YfWR43xTwC"
 }
