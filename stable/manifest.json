@@ -1,14 +1,14 @@
 {
   "format": "APRIMAX_UPDATE_MANIFEST_V1",
   "product": "APRIMAX_GESTAO",
-  "version": "6.38.2",
+  "version": "6.39.0",
   "channel": "stable",
-  "published_at": "2026-09-23T00:35:26Z",
+  "published_at": "2026-09-23T12:24:52Z",
   "key_id": "EB696C5449837E432C6D",
   "notes": [
-    "Ajuste contraste"
+    "V6.39.0 — Novo Tema Claro/Escuro, revisão completa de contraste e hover, melhorias no Consignado, novo fluxo de solicitação de cadastro de produtos, permissões mais seguras, telas de cadastro ampliadas, menu lateral mais limpo e diversos ajustes finais de interface e usabilidade."
   ],
-  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.38.2/ApriMax_Gestao_V6.38.2_stable.aprimaxupdate",
-  "package_sha256": "bbccfee2b1e2eb0be772ad3efe5b5bc052f7369e1bfc5e2c583983efd3e538a0",
-  "signature": "gMncBMarGZXDFLbv7LBQNP-grLAuTbTe-IIPjXieHsAdjgHHlEMDx0chITJ_aJvyqNheVOB8Fmf1zPr9zn7PDe6cSWmQHE9IZfRJjKZqowFkVN5hxSgfm2cSbVvD6sIiQVgOucBMfqyO47XwouIsAio8bWXKjYTAwHdWBi5rH7bh5xYN2UTz5uVEfV7BlgohczQhv41ZTXwCeRut4YfAv50Ra4ujcsLnDHaRUbeptc0NZOccGIXDyi24QvBCh0assib7v4EX1iMcGAOfIhKNaFz_yEPePPZAbdIn5WEl44GjDWd_7qJYjceJN3TqAR9zNl3x92j1xUuXtm-UqogRm-XK1SDqICws81msJrPgr1zjrYW7Do7wyvMMIBGW2Znx2TTHp917W7RRIl3KA63WwYkk6235N3ZHlaEhFPrszAI533b_cHOYTf_yle0ewxND-qNS8rG7YPQJ6hYzZXouskaQpn26SG1-910kKWMxkxHb8Eiq4LCs-8Ha5KKr8cIB"
+  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.39.0/ApriMax_Gestao_V6.39.0_stable.aprimaxupdate",
+  "package_sha256": "24138777fbb08357da8a9646e7132f929155ac8e27b937f27d59a97e5db64804",
+  "signature": "j8ue9_kMHlp8DzqgAMR1yZtammbVLZNnw9kGuhH91XRxMnYQJWX0LfgZbBPbLvHaUeFRGXXInooscZL-MES48onUNHZ67C3FDLEMEhlMzfvgvBMekjpdj9RcZqbt5znFwy1N3UMmwsyvgUviChstRo7eJEctRDirrB27iakt_hT93PvaJhMpvlp0aDoFtfQjkMwYDcp-GJXGcIzKGpZh9pLMilSr06Dx0CKOeRgG0FCFymxBmCUUKjnkevqeGV5cSUIMKN45wAe4g2Lj31P0iliKXfu6CiTV6Afnre_eCwoKjv7bvdY0-3z6W202QrIHU-yX6xf5DdfZ0kvuXCcf1t3Ywc--zKdu_7vmapxekqgnsTEovU-WoGxDeTywiJraamBNNxns_rPO551w2vu_lvtYw85RqfqfLaOc5L31BtigdBoVSst_Dx6CFHHJc-CzwHNVna8cgV8rgRBAL9pQfkZ8stwbnE7-Lhwpm8IyBwVapQFaYN8XaIaFi2Pcvb-p"
 }
