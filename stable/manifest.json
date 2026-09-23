@@ -1,14 +1,19 @@
 {
   "format": "APRIMAX_UPDATE_MANIFEST_V1",
   "product": "APRIMAX_GESTAO",
-  "version": "6.39.0",
+  "version": "6.39.1",
   "channel": "stable",
-  "published_at": "2026-09-23T12:24:52Z",
+  "published_at": "2026-09-23T13:23:17Z",
   "key_id": "EB696C5449837E432C6D",
   "notes": [
-    "V6.39.0 — Novo Tema Claro/Escuro, revisão completa de contraste e hover, melhorias no Consignado, novo fluxo de solicitação de cadastro de produtos, permissões mais seguras, telas de cadastro ampliadas, menu lateral mais limpo e diversos ajustes finais de interface e usabilidade."
+    "V6.39.1 — Melhorias nos temas Claro e Escuro.",
+    "Correções em Relatórios e Pagar Comissão.",
+    "Ajuste do status Pagamento Parcial.",
+    "Cadastro de cliente reorganizado.",
+    "Remoção do gráfico Torres.",
+    "Botões do Estoque alinhados e correção completa do Pedido de Compra no Tema Escuro."
   ],
-  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.39.0/ApriMax_Gestao_V6.39.0_stable.aprimaxupdate",
-  "package_sha256": "24138777fbb08357da8a9646e7132f929155ac8e27b937f27d59a97e5db64804",
-  "signature": "j8ue9_kMHlp8DzqgAMR1yZtammbVLZNnw9kGuhH91XRxMnYQJWX0LfgZbBPbLvHaUeFRGXXInooscZL-MES48onUNHZ67C3FDLEMEhlMzfvgvBMekjpdj9RcZqbt5znFwy1N3UMmwsyvgUviChstRo7eJEctRDirrB27iakt_hT93PvaJhMpvlp0aDoFtfQjkMwYDcp-GJXGcIzKGpZh9pLMilSr06Dx0CKOeRgG0FCFymxBmCUUKjnkevqeGV5cSUIMKN45wAe4g2Lj31P0iliKXfu6CiTV6Afnre_eCwoKjv7bvdY0-3z6W202QrIHU-yX6xf5DdfZ0kvuXCcf1t3Ywc--zKdu_7vmapxekqgnsTEovU-WoGxDeTywiJraamBNNxns_rPO551w2vu_lvtYw85RqfqfLaOc5L31BtigdBoVSst_Dx6CFHHJc-CzwHNVna8cgV8rgRBAL9pQfkZ8stwbnE7-Lhwpm8IyBwVapQFaYN8XaIaFi2Pcvb-p"
+  "package_url": "https://github.com/ApriMax/aprimax-releases/releases/download/v6.39.1/ApriMax_Gestao_V6.39.1_stable.aprimaxupdate",
+  "package_sha256": "9b57a505951791cd46e3acc88cbe11b0f231df577c541355bcbcd5961299518e",
+  "signature": "E7HYe6Gj1vzchJVgfmLGkjFzZiLPyc5fy6d5_pWN93PYyHvs7rMN91pwhZbQ3ieh0UwWeLgag06znH5rOX7tOftmF-oyDsPp_WuHhYi8BIjHXBc34I-c8VDdIqGp-Aw6ntPiajMjNkUcycOMDe7hTBR8pXEe3sqeAtb5-1_Nu3zaW-8nzQm8aFQDmVfUwsc6S2m4R3j77ClHm07w3PZabUwUPi_X6NMk27SzxiOF5uDb4_j0MIrzNxwRoJEHpGjoxBRyORXFHi1EMIYxkDe0hPRRZXbepbun3yKK7w30Sxgh5LqGbl5hdQx8ItQJN3a-MIgyShnR5Ni5wgLcp4XVxsa3CMFQhJN5sHKQU8MewN67zk-eTD6_q1rbloCnsg0NR1cmh6A8OND9uOx2U95LyLAdICGLRuY23W8Psq7u3RyNNCNzePk33wp3DhK2xs8nHAuR8n6RCwlArVguX4kpG5nvsW4X3TVlVe3vZRGT9l-0AWyq6R98CqFiWzv8RD-G"
 }
